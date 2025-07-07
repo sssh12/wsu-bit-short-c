@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F161CF2-1DA0-4327-A6DC-2F63C0F0667F}|0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "control.c",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.c",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.c",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.c",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.c",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-07T09:09:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.c",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.c",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.c",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.c",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-07T09:08:58.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file.c",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.c",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.c",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.c",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.c",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-07T09:09:12.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "member.c",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.c",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.c",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.c",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.c",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-07T09:09:18.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myarr.c",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.c",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.c",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.c",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-07T09:09:24.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "print.c",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.c",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.c",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.c",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-07T09:09:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "start.c",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\start.c",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\start.c",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\start.c",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\start.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-07T09:09:34.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.h",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.h",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.h",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.h",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\app.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T09:09:40.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "control.h",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.h",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.h",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.h",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\control.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T09:09:52.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "file.h",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.h",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.h",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.h",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\file.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T09:09:57.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "member.h",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.h",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.h",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.h",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\member.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T09:10:02.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "myarr.h",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.h",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.h",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.h",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\myarr.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T09:10:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "print.h",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.h",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.h",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.h",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\print.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T09:10:15.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "std.h",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\std.h",
+              "RelativeDocumentMoniker": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\std.h",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\\uC6B0\uC1A1\uBE44\uD2B8\uB2E8\uAE30\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\std.h",
+              "RelativeToolTip": "0704_\uD68C\uC6D0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\std.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T09:10:20.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
