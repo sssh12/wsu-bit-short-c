@@ -6,6 +6,8 @@ void exam3();
 void exam4();
 void exam5();
 void exam6();
+void exam7();
+void exam8();
 
 int main() {
 	//exam1();
@@ -13,7 +15,9 @@ int main() {
 	//exam3();
 	//exam4();
 	//exam5();
-	exam6();
+	//exam6();
+	//exam7();
+	exam8();
 
 	return 0;
 }
@@ -141,4 +145,51 @@ void exam6() {
 
 	fclose(read_fp);
 	fclose(write_fp);
+}
+
+// 바이너리 모드
+void exam7() {
+	FILE* fp;
+	int ret = fopen_s(&fp, "sample.txt", "wb");
+
+	if (ret != 0) {
+		printf("파일 열기 실패\n");
+		return;
+	}
+
+	int num = 10;
+	char ch = 'A';
+	float fnum = 10.123f;
+	int arr[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+	fwrite(&num, sizeof(int), 1, fp);	// 시작 주소, sizeof(int) * 1의 크기를 저장
+	fwrite(&ch, sizeof(char), 1, fp);
+	fwrite(&fnum, sizeof(float), 1, fp);
+	fwrite(arr, sizeof(int), 10, fp);
+
+	fclose(fp);
+}
+
+void exam8() {
+	FILE* fp;
+	int ret = fopen_s(&fp, "sample.txt", "rb");
+
+	if (ret != 0) {
+		printf("파일 열기 실패\n");
+		return;
+	}
+
+	int num;
+	char ch;
+	float fnum;
+	int arr[10];
+
+	fread(&num, sizeof(int), 1, fp);	// 시작 주소, sizeof(int) * 1의 크기를 읽어옴
+	fread(&ch, sizeof(char), 1, fp);
+	fread(&fnum, sizeof(float), 1, fp);
+	fread(arr, sizeof(int), 10, fp);
+
+	printf("%d, %c, %.3f, %d, %d, %d\n", num, ch, fnum, arr[0], arr[1], arr[2]);
+
+	fclose(fp);
 }

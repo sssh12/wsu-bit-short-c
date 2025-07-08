@@ -51,6 +51,7 @@ void file_save()
 	{
 		member* mem = (member*)myarr_get_data(&members, i);
 		fprintf(fp, "%s %d %s\n", mem->name, mem->age, mem->phone);
+		// fwrite(mem, sizeof(mem), membrs.size, fp);
 	}
 
 	fclose(fp);
