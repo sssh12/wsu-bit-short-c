@@ -24,5 +24,8 @@
     <ClCompile Include="03_명령행인자사용예.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="04_파일입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

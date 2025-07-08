@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\wsu-bit-short\\0708\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB43C5FB-2758-4A6C-9FE5-4C29761F397B}|0708\\0708.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\wsu-bit-short\\0708\\0708\\04_\uD30C\uC77C\uC785\uCD9C\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB43C5FB-2758-4A6C-9FE5-4C29761F397B}|0708\\0708.vcxproj|solutionrelative:0708\\04_\uD30C\uC77C\uC785\uCD9C\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB43C5FB-2758-4A6C-9FE5-4C29761F397B}|0708\\0708.vcxproj|C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\wsu-bit-short\\0708\\0708\\03_\uBA85\uB839\uD589\uC778\uC790\uC0AC\uC6A9\uC608.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB43C5FB-2758-4A6C-9FE5-4C29761F397B}|0708\\0708.vcxproj|solutionrelative:0708\\03_\uBA85\uB839\uD589\uC778\uC790\uC0AC\uC6A9\uC608.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,15 +34,28 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "04_\uD30C\uC77C\uC785\uCD9C\uB825.c",
+              "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\wsu-bit-short\\0708\\0708\\04_\uD30C\uC77C\uC785\uCD9C\uB825.c",
+              "RelativeDocumentMoniker": "0708\\04_\uD30C\uC77C\uC785\uCD9C\uB825.c",
+              "ToolTip": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\wsu-bit-short\\0708\\0708\\04_\uD30C\uC77C\uC785\uCD9C\uB825.c",
+              "RelativeToolTip": "0708\\04_\uD30C\uC77C\uC785\uCD9C\uB825.c",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-08T01:19:08.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "03_\uBA85\uB839\uD589\uC778\uC790\uC0AC\uC6A9\uC608.c",
               "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\wsu-bit-short\\0708\\0708\\03_\uBA85\uB839\uD589\uC778\uC790\uC0AC\uC6A9\uC608.c",
               "RelativeDocumentMoniker": "0708\\03_\uBA85\uB839\uD589\uC778\uC790\uC0AC\uC6A9\uC608.c",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "02_main\uD568\uC218\uC758\uB9E4\uAC1C\uBCC0\uC218.c",
               "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\wsu-bit-short\\0708\\0708\\02_main\uD568\uC218\uC758\uB9E4\uAC1C\uBCC0\uC218.c",
               "RelativeDocumentMoniker": "0708\\02_main\uD568\uC218\uC758\uB9E4\uAC1C\uBCC0\uC218.c",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "0708\\02_main\uD568\uC218\uC758\uB9E4\uAC1C\uBCC0\uC218.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-08T00:35:34.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T00:35:34.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "01_\uB9E4\uD06C\uB85C\uD568\uC218.c",
               "DocumentMoniker": "C:\\Users\\sstou\\\uBC14\uD0D5 \uD654\uBA74\\Learning\\WSU\\Lectures\\wsu-bit-short\\0708\\0708\\01_\uB9E4\uD06C\uB85C\uD568\uC218.c",
               "RelativeDocumentMoniker": "0708\\01_\uB9E4\uD06C\uB85C\uD568\uC218.c",
