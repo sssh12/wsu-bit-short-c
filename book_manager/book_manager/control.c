@@ -9,7 +9,6 @@ void con_init() {
 
 void con_exit() {
 	file_save();
-	// 필요시 동적 메모리 해제 등
 }
 
 void con_insert() {
